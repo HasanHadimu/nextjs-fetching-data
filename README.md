@@ -38,3 +38,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Peview NextJS Fetching data with Axios
+
+![{A2268F01-92AD-4D96-A8C7-3CBF048F592C}](https://github.com/user-attachments/assets/17a3511a-8d0a-4120-8707-8ea8e4ecbf98)
+
+![{A2A4C925-B961-4343-97F7-1270718E29E1}](https://github.com/user-attachments/assets/ab3fc66f-2a77-4ba9-b1b9-3e4984318e23)
+
+
+
